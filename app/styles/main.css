@@ -1,3 +1,10 @@
 body {
   padding: 20px;
 }
+html .popup {
+  width: 200px;
+}
+
+h2#popup {
+  margin-bottom: -10px;
+}
