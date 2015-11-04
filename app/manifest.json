@@ -45,5 +45,6 @@
     },
     "default_title": "Magic Card Mouseover",
     "default_popup": "popup.html"
-  }
+  },
+  "content_security_policy": "script-src 'self' https://cdn.firebase.com https://*.firebaseio.com; object-src 'self'"
 }
