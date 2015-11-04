@@ -43,7 +43,7 @@
       "48": "images/icon48.png",
       "128": "images/icon128.png"
     },
-    "default_title": "yeo mcm",
+    "default_title": "Magic Card Mouseover",
     "default_popup": "popup.html"
   }
 }
