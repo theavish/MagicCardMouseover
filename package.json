@@ -1,0 +1,9 @@
+{
+  "name": "magiccardmouseover",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
