@@ -4,7 +4,7 @@ Display MTG cards in the webpage.
 What is starting as a chrome extension for MVP is going to grow into something more.
 
 Currently using:
--Firebase
--Express
--AngularJS
--Node.js
+- Firebase
+- Express
+- AngularJS
+- Node.js
